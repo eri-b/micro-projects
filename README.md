@@ -1,6 +1,14 @@
 ### micro projs
 
+### Javascript
+
+[Tic Tac Toe](https://github.com/DevMFernandes/TicTacToe)
+
+[Library](https://github.com/DevMFernandes/JS-Library)
+
 #### Rails
+
+[Facebook clone](https://github.com/DevMFernandes/FaceApp)
 
 [Private events](https://github.com/eri-b/private-events)
 
