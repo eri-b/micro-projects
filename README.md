@@ -2,6 +2,16 @@
 
 ### Javascript
 
+[Battleship](https://github.com/DevMFernandes/JS-Battleship)
+
+[Testing](https://github.com/DevMFernandes/TestingPractice)
+
+[Weather](https://github.com/eri-b/weather-demo)
+
+[To-do](https://github.com/eri-b/todojs)
+
+[Restaurant](https://github.com/eri-b/rest-webpack)
+
 [Tic Tac Toe](https://github.com/DevMFernandes/TicTacToe)
 
 [Library](https://github.com/DevMFernandes/JS-Library)
