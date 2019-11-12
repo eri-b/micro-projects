@@ -1,5 +1,13 @@
 ### micro projs
 
+### React / Redux
+
+[Bookstore](https://github.com/DevMFernandes/react-bookstore)
+
+### React
+
+[Calculator](https://github.com/eri-b/calcreact)
+
 ### Javascript
 
 [Battleship](https://github.com/DevMFernandes/JS-Battleship)
